@@ -332,7 +332,7 @@ class API {
     constructor(baseURL = null) {
         this.baseURL = baseURL;
         if (this.baseURL == null) {
-            this.baseURL = baseurl + '/api';
+            this.baseURL = baseurl + '/exbert/api';
         }
     }
     getModelDetails(model, hashObj = null) {

@@ -72,3 +72,5 @@ client/src/demo
 # Emacs things
 \#*
 .#*
+
+.env

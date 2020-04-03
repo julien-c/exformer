@@ -1,0 +1,9 @@
+connexion==1.5.3
+Werkzeug==0.16.1
+boto3
+regex
+flask-cors
+jinja2==2.10
+numpy
+torch
+transformers==2.4.1
